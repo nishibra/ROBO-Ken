@@ -35,6 +35,7 @@
 - a).ロボットは、移動するための下半身と、胴体、頭部、腕を有する形状とする。移動方法は車輪型、クローラ型、多足歩行型、二足型いずれも参加可能。移動速度は規定しない。
  
 参考図
+
 ![robo](robo-ken_pic/robo.jpg)
 
 解説2:　将来(5年を目途に)二足歩行ロボットとする方向です。二足型は足の大きさや脚の長さなどの規定はありませんがROBO-ONE競技規定に準ずることが望まれます。重量は当面規定しませんが4kg以下を目標に作成すると良いでしょう。
@@ -93,9 +94,13 @@ https://www.amazon.co.jp/gp/product/B082162K9S/ref=ppx_yo_dt_b_asin_title_o01_s0
 ROBO-ONE小リング上にて実施する。
 リングのサイズは図に示す。表面の状態は±1mm以下の段差とし、材質は特に規定しない。
 リング上部2m、リングの周囲30cm、周囲30cmのリングまでの高さは30cmまでは物を配置しない。ただし審判はこの範囲も自由に動けるものする。
-![ring](robo-ken_pic/ring.jpg)   　　　　　 
+
+![ring](robo-ken_pic/ring.png)   　　　　　 
+
 ROBO-ONE小リング
-![side](robo-ken_pic/side.jpg)
+
+![side](robo-ken_pic/side.png)
+
 リングを横から見た図
 
 解説7
