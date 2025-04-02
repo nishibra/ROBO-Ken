@@ -79,7 +79,9 @@ https://www.amazon.co.jp/gp/product/B09T36JT17/ref=ppx_yo_dt_b_asin_title_o04_s0
 - b).鍔は直径40mm～50mmの円板とし、鍔前面から竹刀先端までの長さは300mm以下とする。
 - c).竹刀の全長は390mm以下とする。なお、柄は手や二の腕と一体化しても良い。
 - d).竹刀の先端から100mmを緑色とする。
- 
+
+![shinai](robo-ken_pic/shinai.png)
+
 解説6
 
 竹刀の緑部分には熱収縮チューブ 内径６mm φ６ グリーン（緑色）と同等のものを使用してください。
