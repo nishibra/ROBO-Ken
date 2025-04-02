@@ -33,11 +33,11 @@ __指定ロボット(操縦型)__
 
 ![robo](robo-ken_pic/robo.jpg)
 
-__指定ロボット(自律型)__
+__指定ロボット(自律Tof型)__
 
 ![robo](robo-ken_pic/robo.jpg)
 
-__指定ロボット(画像認識型)__
+__指定ロボット(自律ビジョン型)__
 
 ![robo](robo-ken_pic/robo.jpg)
 
