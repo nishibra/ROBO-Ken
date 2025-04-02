@@ -93,8 +93,10 @@ https://www.amazon.co.jp/gp/product/B082162K9S/ref=ppx_yo_dt_b_asin_title_o01_s0
 ROBO-ONE小リング上にて実施する。
 リングのサイズは図に示す。表面の状態は±1mm以下の段差とし、材質は特に規定しない。
 リング上部2m、リングの周囲30cm、周囲30cmのリングまでの高さは30cmまでは物を配置しない。ただし審判はこの範囲も自由に動けるものする。
- 　　　　　 
-ROBO-ONE小リング　　　　　　　　　　　　　　　リングを横から見た図
+![ring](robo-ken_pic/ring.jpg)   　　　　　 
+ROBO-ONE小リング
+![side](robo-ken_pic/side.jpg)
+リングを横から見た図
 
 解説7
 リングのロゴマークは変更されることがあります。
