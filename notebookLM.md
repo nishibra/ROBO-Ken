@@ -22,3 +22,5 @@ https://github.com/nishibra/ROBO-Ken/blob/main/README.md
 はマークダウンのファイルで、人にも、コンピューターも理解しやすいものでAI分野ではよく使われます。
 
 [![サービス紹介動画](robo-ken_pic/robo.jpg)](https://www.youtube.com/watch?v=Xq9GoG_sEQo&t=10s)
+
+[![](https://img.youtube.com/vi/Xq9GoG_sEQo&t=10s/0.jpg)](https://www.youtube.com/watch?v=Xq9GoG_sEQo&t=10s)
