@@ -1,15 +1,13 @@
-# Google notebookLMで競技規則を把握
+# Google notebookLMで競技規則の理解
 2025年11月8日作成
 
 ### 前書き
-Google notebookLMによる競技規則を把握します。
+Google notebookLMを使って競技規則を理解します。
 
 ### Google notebookLM
-Googleアプリから notebookLM(写真)を起動します。
+Googleアプリから notebookLMを起動します。
 
 https://notebooklm.google.com/
-
-![nbLM](notebookLM.png)
 
 新規作成を選んでファイルをアップロードします。
 
