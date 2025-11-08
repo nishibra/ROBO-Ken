@@ -20,3 +20,6 @@ https://github.com/nishibra/ROBO-Ken/blob/main/README.md
 
 *.md
 はマークダウンのファイルで、人にも、コンピューターも理解しやすいものでAI分野ではよく使われます。
+
+ロボ剣：ロボット剣士の道.mp4
+
