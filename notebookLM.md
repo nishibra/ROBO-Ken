@@ -17,10 +17,10 @@ https://github.com/nishibra/ROBO-Ken/blob/main/README.md
 
 ダウンロードしたファイルをnotebookLMにアップロードします。終わるとチャット画面に概要が表示され、競技規則に関する質問を入力すると回答してくれます。
 また音声解説や動画解説を作成できます。
-'''
+```
 *.md
 はマークダウンのファイルで、人にも、コンピューターも理解しやすいものでAI分野ではよく使われます。
-'''
+```
 動画解説例(下図を下クリックしてください)
 
 [![サービス紹介動画](robo-ken_pic/robo.jpg)](https://www.youtube.com/watch?v=Xq9GoG_sEQo&t=10s)
