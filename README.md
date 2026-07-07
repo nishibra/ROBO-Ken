@@ -83,7 +83,7 @@ https://www.amazon.co.jp/gp/product/B09T36JT17/ref=ppx_yo_dt_b_asin_title_o04_s0
 - c).竹刀の全長は390mm以下とする。なお、柄は手や二の腕と一体化しても良い。
 - d).竹刀の先端から100mmを緑色とする。
 
-![shinai](robo-ken_pic/shinai.png)
+![shinai](robo-ken_pic/shinai.jpg)
 
 解説6
 
@@ -97,11 +97,11 @@ ROBO-ONE小リング上にて実施する。
 リングのサイズは図に示す。表面の状態は±1mm以下の段差とし、材質は特に規定しない。
 リング上部2m、リングの周囲30cm、周囲30cmのリングまでの高さは30cmまでは物を配置しない。ただし審判はこの範囲も自由に動けるものする。
 
-![ring](robo-ken_pic/ring.png)   　　　　　 
+![ring](robo-ken_pic/ring.jpg)   　　　　　 
 
 ROBO-ONE小リング
 
-![side](robo-ken_pic/side.png)
+![side](robo-ken_pic/side.jpg)
 
 リングを横から見た図
 
